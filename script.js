@@ -35,5 +35,5 @@ updateCountdown();
 // Configurar botón para redirigir (cambia la URL según sea necesario)
 document.getElementById('nextButton').addEventListener('click', function() {
     // Reemplaza 'URL_DE_DESTINO' con la página a la que deseas redirigir
-    window.location.href = 'URL_DE_DESTINO';
+    window.location.href = 'https://maxroblero.github.io/2-2/';
 });
